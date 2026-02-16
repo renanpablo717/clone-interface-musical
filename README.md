@@ -1,0 +1,1 @@
+Este é um projeto para fins exclusivamente educacionais. > O objetivo deste repositório é praticar habilidades de HTML, CSS e Bootstrap, baseando-se na interface do site Spotify. Não há coleta de dados ou intenção comercial
