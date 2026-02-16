@@ -212,3 +212,7 @@ h3{
         font-size: 6em;
     }
 }
+
+.carousel-control-prev, .carousel-control-next{
+    width: 5%;
+}
